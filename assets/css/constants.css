@@ -1,0 +1,23 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: #000000;
+  --theme-color-secondary: #C1121F;
+  --theme-color-brightred: #E63946;
+  --theme-color-white: #F2EFEA;
+  --theme-color-darkred: #6B0A12;
+  --theme-color-grey: #8A8A8A;
+  --theme-transition: all 0.3s ease-in-out;
+
+  --theme-font-body:  "new-science", sans-serif;
+  --theme-font-heading: "new-science", sans-serif;
+  
+  --theme-font-size-base: 16px;
+  --theme-line-height-body: 1.5;
+  --theme-line-height-heading: 1.1;
+
+  
+}
